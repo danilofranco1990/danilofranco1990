@@ -43,8 +43,16 @@
     <td width="50%" valign="top">
       <h3>1. NosDois</h3>
       <p>Plataforma web para fortalecer a conexão de casais através de uma rotina diária de perguntas, cujas respostas são reveladas apenas após a participação de ambos os parceiros, incentivando a comunicação e a intimidade.</p>
-      <p><strong>Tecnologias:</strong> [Adicione as principais tecnologias aqui, ex: Java, Spring Boot, React, PostgreSQL]</p>
-      <a href="https://github.com/danilofranco1990/nosdois" target="_blank"><strong>Ver Repositório →</strong></a>
+      <p><strong>Tecnologias Utilizadas:</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 18"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
+      </p>      <a href="https://github.com/danilofranco1990/nosdois" target="_blank"><strong>Ver Repositório →</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3>2. AxonAI Platform</h3>
