@@ -37,23 +37,21 @@
 
 ## 🚀 Projetos Principais (A SEREM FIXADOS NO PERFIL)
 
-Esta é a seção mais importante. Substitua estes exemplos pelos seus projetos originais. Se ainda não os tem, sua prioridade é desenvolvê-los.
-
 <br>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>1. Nome do Projeto 1 (Ex: API de Controle Financeiro)</h3>
-      <p>API RESTful para gerenciamento de despesas e receitas pessoais. O projeto implementa autenticação JWT (JSON Web Token), operações CRUD (Create, Read, Update, Delete) completas para transações e relatórios mensais.</p>
-      <p><strong>Tecnologias:</strong> Spring Boot, Spring Security, JPA/Hibernate, PostgreSQL.</p>
-      <a href="URL_DO_REPOSITORIO_1" target="_blank">Ver Repositório</a>
+      <h3>1. NosDois</h3>
+      <p>Plataforma web para fortalecer a conexão de casais através de uma rotina diária de perguntas, cujas respostas são reveladas apenas após a participação de ambos os parceiros, incentivando a comunicação e a intimidade.</p>
+      <p><strong>Tecnologias:</strong> [Adicione as principais tecnologias aqui, ex: Java, Spring Boot, React, PostgreSQL]</p>
+      <a href="https://github.com/danilofranco1990/nosdois" target="_blank"><strong>Ver Repositório →</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3>2. Nome do Projeto 2 (Ex: Microsserviço de Notificações)</h3>
-      <p>Sistema de envio de notificações (Email/SMS) desacoplado, construído com arquitetura de microsserviços e comunicação via filas (RabbitMQ) para garantir assincronismo e resiliência.</p>
-      <p><strong>Tecnologias:</strong> Spring Cloud, RabbitMQ, Java 17.</p>
-      <a href="URL_DO_REPOSITORIO_2" target="_blank">Ver Repositório</a>
+      <h3>2. AxonAI Platform</h3>
+      <p>Orquestrador inteligente que transforma conversas com LLMs em planos de projeto estruturados. Utiliza um "Modo Foco" para manter o contexto em micro-tarefas e se integra a ferramentas Kanban para agilizar o fluxo da ideação à execução.</p>
+      <p><strong>Tecnologias:</strong> [Adicione as principais tecnologias aqui, ex: Python, FastAPI, LangChain, Next.js]</p>
+      <a href="https://github.com/danilofranco1990/axonai-platform" target="_blank"><strong>Ver Repositório →</strong></a>
     </td>
   </tr>
 </table>
