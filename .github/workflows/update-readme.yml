@@ -1,0 +1,24 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # roda a cada 6 horas
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Substituir TOKEN_PLACEHOLDER
+        run: |
+          sed -i "s|TOKEN_PLACEHOLDER|${{ secrets.STATS_TOKEN }}|g" README.md
+
+      - name: Commit e push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Atualiza stats com token"
+          git push
