@@ -25,7 +25,6 @@ jobs:
           # Usa o token padrão do GitHub, que é mais seguro
           token: ${{ secrets.STATS_TOKEN }}
 
-          # Configurações do plugin
           # Descomente e ajuste as linhas conforme necessário
           config_timezone: America/Sao_Paulo
           config_display: large
