@@ -1,0 +1,43 @@
+# .github/workflows/metrics.yml
+
+name: Metrics
+on:
+  schedule:
+    # Roda à meia-noite todos os dias
+    - cron: "0 0 * * *"
+  # Permite execução manual
+  workflow_dispatch:
+  # Roda ao fazer push para a branch main
+  push:
+    branches:
+      - "main"
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Seu nome de usuário do GitHub
+          user: danilofranco1990
+          # Usa o token padrão do GitHub, que é mais seguro
+          token: ${{ secrets.STATS_TOKEN }}
+
+          # Configurações do plugin
+          # Descomente e ajuste as linhas conforme necessário
+          config_timezone: America/Sao_Paulo
+          config_display: large
+          
+          # Habilita os plugins desejados
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_layout: compact
+          
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
