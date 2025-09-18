@@ -19,10 +19,10 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Contribution Calendar" />
+  <img src="https://github.com/danilofranco1990/danilofranco1990/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt="Contribution Calendar" />
 </p>
 <p align="center">
-  <img src="metrics.plugin.languages.svg" alt="Most Used Languages" />
+  <img src="https://github.com/danilofranco1990/danilofranco1990/blob/main/metrics.plugin.languages.svg" alt="Most Used Languages" />
 </p>
 
 ---
