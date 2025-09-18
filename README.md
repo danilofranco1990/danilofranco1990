@@ -19,8 +19,10 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilofranco1990&show_icons=true&theme=dracula&count_private=true&cache_seconds=7200&token=TOKEN_PLACEHOLDER"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilofranco1990&layout=compact&langs_count=7&theme=dracula&cache_seconds=7200&token=TOKEN_PLACEHOLDER"/>
+  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Contribution Calendar" />
+</p>
+<p align="center">
+  <img src="metrics.plugin.languages.svg" alt="Most Used Languages" />
 </p>
 
 ---
