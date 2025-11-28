@@ -24,25 +24,3 @@
 
 ---
 
-## 🚀 Projetos Principais
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>1. AxonAI Platform</h3>
-      <blockquote>Orquestrador que transforma conversas com LLMs em planos de projeto estruturados.</blockquote>
-      <p><strong>Destaque Arquitetural:</strong></p>
-      <p>Para gerenciar a complexidade do domínio e garantir a testabilidade, o projeto foi construído como um <strong>Monolito Modular</strong> seguindo os princípios da <strong>Arquitetura Hexagonal</strong>. Essa abordagem isola o núcleo de negócio das dependências externas (UI, banco de dados), permitindo que a lógica central seja testada de forma independente e evolua com baixo acoplamento.</p>
-      <p><strong>Tecnologias:</strong> Java 21, Spring Boot, React 19, PostgreSQL, JWT, Maven, Render.</p>
-      <a href="https://github.com/danilofranco1990/axonai-platform" target="_blank"><strong>Ver Repositório →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>2. NosDois</h3>
-      <blockquote>Plataforma web para fortalecer a conexão de casais através de uma rotina diária de perguntas, incentivando a comunicação e a intimidade.</blockquote>
-      <p><strong>Desafio Técnico:</strong></p>
-      <p>O principal desafio era garantir que a resposta de um parceiro só fosse revelada após a participação do outro, criando uma "recompensa" pela interação mútua. A solução envolveu um modelo de dados com controle de estado e lógica de negócio no backend para gerenciar a visibilidade das respostas com base na participação de ambos os usuários no "ciclo" diário.</p>
-      <p><strong>Tecnologias:</strong> Java 21, Spring Boot, React 18, PostgreSQL, JWT, Vite, Maven.</p>
-      <a href="https://github.com/danilofranco1990/nosdois" target="_blank"><strong>Ver Repositório →</strong></a>
-    </td>
-  </tr>
-</table>
