@@ -39,51 +39,6 @@ What I care about: turning complex business rules into architectures that surviv
 
 ---
 
-## What I've built
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🏛️ SIVISA
-**Health Surveillance Information System — State of São Paulo**
-
-Mission-critical government platform used by **every health surveillance unit in the state**. I engineer and maintain it, guaranteeing availability and data integrity.
-
-Built the **reporting module** that expanded the field teams' ability to extract and analyze data, and modernized legacy Java / Spring Boot applications to cut complexity.
-
-`Java` `Spring Boot` `Oracle` `REST`
-
-</td>
-<td width="33%" valign="top">
-
-### 📦 National Sales Force
-**Ilumi Materiais Elétricos**
-
-Invited to take over — as the company's **only developer, with no technical supervision** — the sales force system used by **100+ commercial representatives across Brazil**.
-
-Full ownership of operation, maintenance and evolution. Built critical commercial and financial routines with a focus on reliability and transactional integrity.
-
-`Java SE/EE` `SQL Server` `Full ownership`
-
-</td>
-<td width="33%" valign="top">
-
-### 🚀 InsightFlow
-**B2B Sales Intelligence SaaS** · `Private`
-
-Personal project, architected and developed **end-to-end**: multi-tenant platform with schema-per-tenant isolation, asynchronous event pipeline and multi-tenant security.
-
-Proprietary code — architecture detailed below.
-
-`Java 21` `Spring Boot 3.4` `RabbitMQ` `Keycloak`
-
-</td>
-</tr>
-</table>
-
----
-
 ## Architecture in focus — InsightFlow
 
 The problem: serve multiple client companies from one platform, with **hard data isolation**, **reliable event delivery** between ingestion, analytics and notifications, and **no dual-write between database and message broker**.
