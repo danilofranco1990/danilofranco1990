@@ -30,51 +30,6 @@ O que me move: traduzir regras de negócio complexas em arquiteturas que sobrevi
 
 ---
 
-## O que eu construí
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🏛️ SIVISA
-**Sistema de Informação em Vigilância Sanitária — Estado de SP**
-
-Plataforma governamental de alta criticidade usada por **todas as vigilâncias sanitárias do estado**. Faço a engenharia e a manutenção, garantindo disponibilidade e integridade dos dados.
-
-Desenvolvi o **módulo de geração de relatórios**, ampliando a capacidade de extração e análise das equipes de vigilância, e modernizei aplicações legadas em Java / Spring Boot para reduzir complexidade.
-
-`Java` `Spring Boot` `Oracle` `REST`
-
-</td>
-<td width="33%" valign="top">
-
-### 📦 Força de Vendas Nacional
-**Ilumi Materiais Elétricos**
-
-Fui convidado a assumir — como **único desenvolvedor da empresa, sem supervisão técnica** — o sistema de força de vendas usado por **mais de 100 representantes comerciais em todo o Brasil**.
-
-Responsabilidade integral por operação, manutenção e evolução. Desenvolvi rotinas comerciais e financeiras críticas com foco em confiabilidade e integridade transacional.
-
-`Java SE/EE` `SQL Server` `Ownership total`
-
-</td>
-<td width="33%" valign="top">
-
-### 🚀 InsightFlow
-**SaaS B2B de Inteligência de Vendas** · `Privado`
-
-Projeto autoral, arquitetado e desenvolvido **end-to-end**: plataforma multi-tenant com isolamento schema-per-tenant, pipeline assíncrono de eventos e segurança multi-tenant.
-
-Código proprietário — arquitetura detalhada abaixo.
-
-`Java 21` `Spring Boot 3.4` `RabbitMQ` `Keycloak`
-
-</td>
-</tr>
-</table>
-
----
-
 ## Arquitetura em foco — InsightFlow
 
 O problema: atender múltiplas empresas clientes numa só plataforma, com **isolamento rígido de dados**, **entrega confiável de eventos** entre ingestão, analytics e notificações, e **sem dual-write entre banco e broker**.
