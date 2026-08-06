@@ -28,15 +28,6 @@ Hoje construo e mantenho uma **plataforma governamental de alta criticidade usad
 
 O que me move: traduzir regras de negócio complexas em arquiteturas que sobrevivem à mudança. Integridade transacional, resiliência, observabilidade e código que o próximo engenheiro consegue manter de verdade.
 
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| **5+** | **10+** | **100+** |
-| anos de Java & Spring | anos em tecnologia | representantes atendidos por um sistema que mantive sozinho |
-
-</div>
-
 ---
 
 ## O que eu construí
