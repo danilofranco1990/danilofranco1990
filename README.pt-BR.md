@@ -32,7 +32,7 @@ O que me move: traduzir regras de negócio complexas em arquiteturas que sobrevi
 
 <div align="center">
 
-**5+** anos de Java & Spring&nbsp; · &nbsp;**10+** anos em tecnologia&nbsp; · &nbsp;**100+** representantes atendidos por um sistema que mantive sozinho
+**5+** anos de Java & Spring&nbsp; · &nbsp;**10+** anos em tecnologia&nbsp; 
 
 <br/>
 
