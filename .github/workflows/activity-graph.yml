@@ -1,0 +1,46 @@
+name: Activity graph
+
+# Sem gatilho de push: o job commita os SVGs, e commitar no mesmo push que o
+# disparou e o que fazia o metrics.yml antigo rejeitar push por nao-fast-forward.
+on:
+  schedule:
+    - cron: "17 6 * * *" # 03:17 America/Sao_Paulo
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Gera os SVGs
+        env:
+          # PAT classico com escopo read:user (e repo, se voce quiser que as
+          # contribuicoes em repositorios privados entrem na conta).
+          # O GITHUB_TOKEN padrao NAO enxerga contribuicoes restritas.
+          GH_TOKEN: ${{ secrets.ACTIVITY_TOKEN }}
+          LOGIN: danilofranco1990
+        run: node .github/scripts/activity-graph.mjs
+
+      - name: Commita se mudou
+        run: |
+          if [ -z "$(git status --porcelain assets)" ]; then
+            echo "Nenhuma mudanca no grafico. Nada a commitar."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git commit -m "chore: atualiza grafico de atividade"
+          git push

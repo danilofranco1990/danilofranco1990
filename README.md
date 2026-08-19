@@ -154,6 +154,16 @@ A decade of climbing from support to engineering. I know what breaks in producti
 
 <br/>
 
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-en-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/activity-en-light.svg" />
+  <img src="assets/activity-en-dark.svg" alt="Contribution activity over the last year" width="100%" />
+</picture>
+
+<br/>
+
 > Most of my work lives in private and corporate repositories — government systems and proprietary SaaS code. Open the sections above and you'll find the architecture behind it.
 
 <div align="center">

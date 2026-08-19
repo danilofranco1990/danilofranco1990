@@ -154,6 +154,16 @@ Uma década subindo do suporte à engenharia. Sei o que quebra em produção por
 
 <br/>
 
+## Atividade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-pt-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/activity-pt-light.svg" />
+  <img src="assets/activity-pt-dark.svg" alt="Atividade de contribuições no último ano" width="100%" />
+</picture>
+
+<br/>
+
 > A maior parte do meu trabalho vive em repositórios privados e corporativos — sistemas governamentais e código proprietário de SaaS. Abra as seções acima e você encontra a arquitetura por trás disso.
 
 <div align="center">
