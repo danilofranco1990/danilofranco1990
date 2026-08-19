@@ -32,7 +32,7 @@ What I care about: turning complex business rules into architectures that surviv
 
 <div align="center">
 
-**5+** years of Java & Spring&nbsp; · &nbsp;**10+** years in tech&nbsp; · &nbsp;**100+** sales reps served by a system I owned alone
+**5+** years of Java & Spring&nbsp; · &nbsp;**10+** years in tech&nbsp; 
 
 <br/>
 
