@@ -154,7 +154,7 @@ Uma década subindo do suporte à engenharia. Sei o que quebra em produção por
 
 <br/>
 
-> A maior parte do meu trabalho vive em repositórios privados e corporativos — sistemas governamentais e código proprietário de SaaS. A arquitetura acima é o retrato honesto do que eu construo.
+> A maior parte do meu trabalho vive em repositórios privados e corporativos — sistemas governamentais e código proprietário de SaaS. Abra as seções acima e você encontra a arquitetura por trás disso.
 
 <div align="center">
 

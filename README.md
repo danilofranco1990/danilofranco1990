@@ -154,7 +154,7 @@ A decade of climbing from support to engineering. I know what breaks in producti
 
 <br/>
 
-> Most of my work lives in private and corporate repositories — government systems and proprietary SaaS code. The architecture above is the honest picture of what I build.
+> Most of my work lives in private and corporate repositories — government systems and proprietary SaaS code. Open the sections above and you'll find the architecture behind it.
 
 <div align="center">
 
