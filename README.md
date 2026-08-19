@@ -51,14 +51,6 @@ What I care about: turning complex business rules into architectures that surviv
 
 </div>
 
-## What I've built
-
-🏛️ &nbsp;**SIVISA** — health surveillance platform for the State of São Paulo. Mission-critical, used by every surveillance unit in the state. I built its reporting module and modernized legacy Java / Spring Boot applications.
-
-📦 &nbsp;**National sales force** — the system behind 100+ commercial representatives across Brazil, which I owned as the company's **only developer, with no technical supervision**.
-
-🚀 &nbsp;**InsightFlow** — B2B sales intelligence SaaS, architected and developed end-to-end. Multi-tenant with schema-per-tenant isolation, asynchronous event pipeline and OAuth2 security. `Private repository`
-
 ## Dig deeper
 
 <details>

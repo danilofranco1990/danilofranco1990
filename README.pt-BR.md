@@ -51,14 +51,6 @@ O que me move: traduzir regras de negócio complexas em arquiteturas que sobrevi
 
 </div>
 
-## O que eu construí
-
-🏛️ &nbsp;**SIVISA** — plataforma de vigilância sanitária do Estado de São Paulo. Alta criticidade, usada por todas as vigilâncias do estado. Desenvolvi o módulo de geração de relatórios e modernizei aplicações legadas em Java / Spring Boot.
-
-📦 &nbsp;**Força de vendas nacional** — o sistema por trás de 100+ representantes comerciais em todo o Brasil, que assumi como **único desenvolvedor da empresa, sem supervisão técnica**.
-
-🚀 &nbsp;**InsightFlow** — SaaS B2B de inteligência de vendas, arquitetado e desenvolvido end-to-end. Multi-tenant com isolamento schema-per-tenant, pipeline assíncrono de eventos e segurança OAuth2. `Repositório privado`
-
 ## Aprofundar
 
 <details>
