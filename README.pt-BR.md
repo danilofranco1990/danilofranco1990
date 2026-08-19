@@ -68,7 +68,7 @@ O que me move: traduzir regras de negócio complexas em arquiteturas que sobrevi
 O problema: atender múltiplas empresas clientes numa só plataforma, com **isolamento rígido de dados**, **entrega confiável de eventos** entre ingestão, analytics e notificações, e **sem dual-write entre banco e broker**.
 
 ```mermaid
-flowchart LR
+flowchart TB
     UI["React + Vite<br/>TypeScript"] -->|"JWT / OIDC"| API["Spring Boot 3.4<br/>Monolito Modular"]
     KC["Keycloak<br/>OAuth2 · RBAC"] -.->|"valida token"| API
     API -->|"Bucket4j<br/>rate limiting"| DOM["Domínios de Negócio"]
@@ -108,11 +108,11 @@ Eu não apenas *uso* ferramentas de IA — eu as construo. Meu ângulo é o de e
 **Skills autorais de Claude Code** — `trello-init` / `trello-sync`: integração Trello ⇄ Spec-Driven Development que mantém o board de um projeto sincronizado a partir do próprio repositório.
 
 ```mermaid
-flowchart LR
+flowchart TB
     Y["work/tasks.yaml<br/>fonte única da verdade"] -->|"git push"| GA["GitHub Actions"]
     GA --> SY["Motor de sync<br/>idempotente"]
-    SY --> TR["Board no Trello<br/>Backlog → Doing → Review → Done"]
-    SY -.-> LB["Labels de papéis de agente<br/>backend · testes · devops · security · frontend"]
+    SY --> TR["Board no Trello<br/>Backlog → Doing<br/>→ Review → Done"]
+    SY -.-> LB["Labels de papéis de agente<br/>backend · testes · devops<br/>security · frontend"]
 
     style GA fill:#1F6FEB,stroke:#134a9e,color:#fff
     style SY fill:#6DB33F,stroke:#4A7C2C,color:#fff

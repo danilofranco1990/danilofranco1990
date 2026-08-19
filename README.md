@@ -68,7 +68,7 @@ What I care about: turning complex business rules into architectures that surviv
 The problem: serve multiple client companies from one platform, with **hard data isolation**, **reliable event delivery** between ingestion, analytics and notifications, and **no dual-write between database and message broker**.
 
 ```mermaid
-flowchart LR
+flowchart TB
     UI["React + Vite<br/>TypeScript"] -->|"JWT / OIDC"| API["Spring Boot 3.4<br/>Modular Monolith"]
     KC["Keycloak<br/>OAuth2 · RBAC"] -.->|"validates token"| API
     API -->|"Bucket4j<br/>rate limiting"| DOM["Business Domains"]
@@ -108,11 +108,11 @@ I don't just *use* AI tooling — I build it. My angle is the engineer's, not th
 **Authored Claude Code skills** — `trello-init` / `trello-sync`: a Trello ⇄ Spec-Driven Development integration that keeps a project board in sync from the repository itself.
 
 ```mermaid
-flowchart LR
+flowchart TB
     Y["work/tasks.yaml<br/>single source of truth"] -->|"git push"| GA["GitHub Actions"]
     GA --> SY["Idempotent<br/>sync engine"]
-    SY --> TR["Trello board<br/>Backlog → Doing → Review → Done"]
-    SY -.-> LB["Agent role labels<br/>backend · tests · devops · security · frontend"]
+    SY --> TR["Trello board<br/>Backlog → Doing<br/>→ Review → Done"]
+    SY -.-> LB["Agent role labels<br/>backend · tests · devops<br/>security · frontend"]
 
     style GA fill:#1F6FEB,stroke:#134a9e,color:#fff
     style SY fill:#6DB33F,stroke:#4A7C2C,color:#fff
