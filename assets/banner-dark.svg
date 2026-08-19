@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200" role="img" aria-label="Danilo Franco — Backend Software Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="60%" stop-color="#12181F"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#1F6FEB" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .name { font: 700 46px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; letter-spacing: 1.5px; }
+      .role { font: 600 20px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.3px; }
+      .meta { font: 400 14.5px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; letter-spacing: 1.6px; }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="999" height="199" rx="16" fill="url(#bg)" stroke="#21262D" stroke-width="1"/>
+  <ellipse cx="790" cy="100" rx="260" ry="150" fill="url(#glow)"/>
+
+  <g stroke="#1F6FEB" stroke-opacity="0.38" stroke-width="1.2" fill="none">
+    <path d="M628 108 L688 58"/>
+    <path d="M628 108 L700 152"/>
+    <path d="M688 58 L762 104"/>
+    <path d="M700 152 L762 104"/>
+    <path d="M762 104 L826 48"/>
+    <path d="M762 104 L836 156"/>
+    <path d="M826 48 L898 96"/>
+    <path d="M836 156 L898 96"/>
+    <path d="M898 96 L952 52"/>
+    <path d="M898 96 L944 146"/>
+    <path d="M688 58 L826 48"/>
+    <path d="M700 152 L836 156"/>
+    <path d="M762 104 L898 96"/>
+    <path d="M952 52 L944 146"/>
+  </g>
+
+  <g fill="#388BFD" fill-opacity="0.55">
+    <circle cx="628" cy="108" r="4.5"/>
+    <circle cx="688" cy="58" r="4.5"/>
+    <circle cx="700" cy="152" r="4.5"/>
+    <circle cx="826" cy="48" r="4.5"/>
+    <circle cx="836" cy="156" r="4.5"/>
+    <circle cx="952" cy="52" r="4"/>
+    <circle cx="944" cy="146" r="4"/>
+  </g>
+  <circle cx="762" cy="104" r="7" fill="#6DB33F"/>
+  <circle cx="762" cy="104" r="12" fill="none" stroke="#6DB33F" stroke-opacity="0.35" stroke-width="1.2"/>
+  <circle cx="898" cy="96" r="6" fill="#58A6FF"/>
+
+  <text class="name" x="52" y="88" fill="#F0F6FC">DANILO FRANCO</text>
+  <rect x="53" y="104" width="64" height="3" rx="1.5" fill="#6DB33F"/>
+  <text class="role" x="52" y="136" fill="#58A6FF">Backend Software Engineer</text>
+  <text class="meta" x="53" y="164" fill="#8B949E">JAVA · SPRING · DISTRIBUTED SYSTEMS</text>
+</svg>

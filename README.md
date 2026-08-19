@@ -1,45 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:1F6FEB,100:6DB33F&height=190&section=header&text=Danilo%20Franco&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Backend%20Software%20Engineer%20%C2%B7%20Java%20%26%20Spring&descAlignY=55&descSize=18" width="100%" alt="Danilo Franco — Backend Software Engineer" />
-
-<a href="https://github.com/danilofranco1990"><img src="https://img.shields.io/badge/English-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="English" /></a>
-<a href="README.pt-BR.md"><img src="https://img.shields.io/badge/Portugu%C3%AAs-30363D?style=for-the-badge&labelColor=0D1117" alt="Português" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+  <img src="assets/banner-dark.svg" alt="Danilo Franco — Backend Software Engineer" width="100%" />
+</picture>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1200&color=1F6FEB&center=true&vCenter=true&width=620&lines=5%2B+years+of+Java+%26+Spring%2C+10%2B+years+in+tech;Mission-critical+government+platforms;Multi-tenant+SaaS%2C+architected+end-to-end;Distributed+systems+%C2%B7+Event-driven+%C2%B7+Clean+architecture" alt="What I do" />
+<a href="README.md"><img src="https://img.shields.io/badge/English-1F6FEB?style=flat-square&labelColor=0D1117" alt="English" /></a>
+<a href="README.pt-BR.md"><img src="https://img.shields.io/badge/Portugu%C3%AAs-30363D?style=flat-square&labelColor=0D1117" alt="Português" /></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/danilo-franco-852a4841/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:danilo.franco90@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Leme,%20SP%20—%20Brazil-30363D?style=flat-square" alt="Location" />
+<img src="https://img.shields.io/badge/Open%20to%20opportunities-6DB33F?style=flat-square&labelColor=0D1117" alt="Open to opportunities" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=1F6FEB&center=true&vCenter=true&width=620&lines=5%2B+years+of+Java+%26+Spring%2C+10%2B+years+in+tech;Mission-critical+government+platforms;Multi-tenant+SaaS%2C+architected+end-to-end;Distributed+systems+%C2%B7+Event-driven+%C2%B7+Clean+architecture" alt="What I do" />
+
+</div>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/danilo-franco-852a4841/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:danilo.franco90@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Leme,%20SP%20—%20Brazil-30363D?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://img.shields.io/badge/Open%20to%20opportunities-6DB33F?style=for-the-badge" alt="Open to opportunities" />
+Backend engineer with **5+ years dedicated to Java and the Spring ecosystem**, inside a 10+ year trajectory that started in IT support.
 
-</div>
+Today I build and maintain a **high-criticality government platform used by every public health surveillance unit in the State of São Paulo**, and I architected a **multi-tenant B2B SaaS end-to-end** — from schema-per-tenant isolation to event pipelines, OAuth2 and CI/CD.
 
----
-
-## Who I am
-
-Backend engineer with **5+ years dedicated to Java and the Spring ecosystem**, inside a **10+ year trajectory in tech** — from IT support to software engineering and architecture.
-
-I currently build and maintain a **high-criticality government platform used by every public health surveillance unit in the State of São Paulo**, and I architected a **multi-tenant B2B SaaS end-to-end** — from schema-per-tenant isolation and asynchronous event pipelines to OAuth2 security and CI/CD.
-
-What I care about: turning complex business rules into architectures that survive change. Transactional integrity, resilience, observability, and code that the next engineer can actually maintain.
+What I care about: turning complex business rules into architectures that survive change. Transactional integrity, resilience, and code the next engineer can actually maintain.
 
 <div align="center">
 
-| | | |
-|:---:|:---:|:---:|
-| **5+** | **10+** | **100+** |
-| years of Java & Spring | years in technology | sales reps served by a system I owned alone |
+**5+** years of Java & Spring&nbsp; · &nbsp;**10+** years in tech&nbsp; · &nbsp;**100+** sales reps served by a system I owned alone
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+<img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 3" />
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 
 </div>
 
----
+## What I've built
 
-## Architecture in focus — InsightFlow
+🏛️ &nbsp;**SIVISA** — health surveillance platform for the State of São Paulo. Mission-critical, used by every surveillance unit in the state. I built its reporting module and modernized legacy Java / Spring Boot applications.
+
+📦 &nbsp;**National sales force** — the system behind 100+ commercial representatives across Brazil, which I owned as the company's **only developer, with no technical supervision**.
+
+🚀 &nbsp;**InsightFlow** — B2B sales intelligence SaaS, architected and developed end-to-end. Multi-tenant with schema-per-tenant isolation, asynchronous event pipeline and OAuth2 security. `Private repository`
+
+## Dig deeper
+
+<details>
+<summary><b>&nbsp;🏗️&nbsp; Architecture in focus — InsightFlow</b></summary>
+<br/>
 
 The problem: serve multiple client companies from one platform, with **hard data isolation**, **reliable event delivery** between ingestion, analytics and notifications, and **no dual-write between database and message broker**.
 
@@ -73,9 +97,11 @@ flowchart LR
 
 `Stripe` billing · `Docker` containerization · `GitHub Actions` CI/CD for build, test and deploy.
 
----
+</details>
 
-## AI agent engineering
+<details>
+<summary><b>&nbsp;🤖&nbsp; AI agent engineering</b></summary>
+<br/>
 
 I don't just *use* AI tooling — I build it. My angle is the engineer's, not the user's: **orchestration, idempotency, secret handling and reproducible pipelines** applied to agent-driven development workflows.
 
@@ -100,97 +126,47 @@ flowchart LR
 - **Runs where the runner can see it** — sync engine and workflow are vendored into the repository, not the local agent config, so CI is the execution environment.
 - **Agent roles as first-class labels** — work is routed by specialty (backend, testing, release/devops, security review, frontend) instead of one undifferentiated assistant.
 
----
+</details>
 
-## Tech stack
+<details>
+<summary><b>&nbsp;🧰&nbsp; Full tech stack</b></summary>
+<br/>
 
-<div align="center">
+**Languages & frameworks** — Java 21 · Spring Boot 3 · Spring Security · Spring Data JPA · Hibernate · TypeScript · React · Vite
 
-**Languages & Frameworks**
+**Architecture & design** — RESTful APIs · Modular Monolith · Hexagonal Architecture · Multi-tenancy · Event-Driven · Transactional Outbox · System Design
 
-<img src="https://img.shields.io/badge/Java%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
-<img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
-<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+**Data & messaging** — PostgreSQL · Oracle · SQL Server · RabbitMQ · Flyway · Caffeine Cache
 
-**Architecture & Design**
+**Security & auth** — Keycloak · OAuth2 / OIDC · JWT · RBAC · Bucket4j rate limiting
 
-<img src="https://img.shields.io/badge/RESTful%20APIs-0D1117?style=for-the-badge&labelColor=1F6FEB" alt="RESTful APIs" />
-<img src="https://img.shields.io/badge/Modular%20Monolith-0D1117?style=for-the-badge&labelColor=1F6FEB" alt="Modular Monolith" />
-<img src="https://img.shields.io/badge/Hexagonal-0D1117?style=for-the-badge&labelColor=1F6FEB" alt="Hexagonal Architecture" />
-<img src="https://img.shields.io/badge/Multi--tenancy-0D1117?style=for-the-badge&labelColor=1F6FEB" alt="Multi-tenancy" />
-<img src="https://img.shields.io/badge/Event--Driven-0D1117?style=for-the-badge&labelColor=1F6FEB" alt="Event-Driven" />
-<img src="https://img.shields.io/badge/Transactional%20Outbox-0D1117?style=for-the-badge&labelColor=1F6FEB" alt="Transactional Outbox" />
-<img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge&labelColor=1F6FEB" alt="System Design" />
+**DevOps & quality** — Docker · GitHub Actions · Maven · Git · JUnit 5 · Mockito · Testcontainers
 
-**Data & Messaging**
+</details>
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" alt="SQL Server" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
-<img src="https://img.shields.io/badge/Caffeine%20Cache-6E4C1E?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Caffeine" />
+<details>
+<summary><b>&nbsp;📈&nbsp; Trajectory & education</b></summary>
+<br/>
 
-**Security & Auth**
+**2011–2018 · Ilumi Materiais Elétricos** — IT intern, then IT assistant, then IT analyst and Java developer. Ended up owning the national sales force system alone.
 
-<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" />
-<img src="https://img.shields.io/badge/OAuth2%20%2F%20OIDC-F78C40?style=for-the-badge&logo=openid&logoColor=white" alt="OAuth2 / OIDC" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/RBAC-30363D?style=for-the-badge" alt="RBAC" />
-<img src="https://img.shields.io/badge/Bucket4j%20Rate%20Limiting-30363D?style=for-the-badge" alt="Bucket4j" />
-
-**DevOps & Quality**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
-<img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge" alt="Mockito" />
-<img src="https://img.shields.io/badge/Testcontainers-291A47?style=for-the-badge&logo=docker&logoColor=white" alt="Testcontainers" />
-
-</div>
-
----
-
-## Trajectory
-
-```
-2011 ──── 2012 ──────── 2017 ──── 2018 ──────── 2021 ──── 2021 ─────────────► now
-  │         │             │         │             │
-  IT        IT            ↓         IT Analyst    ↓        Backend Engineer
-  Intern    Assistant               Java Dev               Java · Spring
-  │         │                       │                      │
-  └─ Ilumi Materiais Elétricos ─────┴──────────────────────┴─ Stefanini Group
-```
+**2021–now · Stefanini Group** — Backend Engineer, Java & Spring. SIVISA, the health surveillance platform of the State of São Paulo.
 
 A decade of climbing from support to engineering. I know what breaks in production because I used to be the one they called when it broke.
 
-**Education**
-
-<img src="https://img.shields.io/badge/Postgrad%20—%20Software%20Engineering%20·%20PUC%20Minas%20·%202025-0D1117?style=for-the-badge&labelColor=6DB33F" alt="Postgraduate degree" />
-<img src="https://img.shields.io/badge/BSc%20Tech%20—%20Systems%20Analysis%20%26%20Development-0D1117?style=for-the-badge&labelColor=1F6FEB" alt="Technologist degree" />
+**Education** — Postgraduate in Software Engineering, PUC Minas (2025) · BSc Tech in Systems Analysis and Development
 
 **Languages** — Portuguese (native) · English (technical reading and conversational comprehension; speaking in progress)
 
----
+</details>
 
-## GitHub
-
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub metrics" />
-</p>
+<br/>
 
 > Most of my work lives in private and corporate repositories — government systems and proprietary SaaS code. The architecture above is the honest picture of what I build.
 
----
-
 <div align="center">
+
+<br/>
 
 ### Let's talk
 
@@ -198,7 +174,5 @@ I'm open to backend engineering opportunities where architecture, reliability an
 
 <a href="https://www.linkedin.com/in/danilo-franco-852a4841/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:danilo.franco90@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" alt="" />
 
 </div>
