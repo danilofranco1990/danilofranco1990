@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360" role="img" aria-label="4.910 contribuições no último ano">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360" role="img" aria-label="4.902 contribuições no último ano">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0D1117"/>
@@ -20,7 +20,7 @@
 
   <rect x="0.5" y="0.5" width="999" height="359" rx="16" fill="url(#bg)" stroke="#21262D" stroke-width="1"/>
 
-  <text x="48" y="62" class="big" fill="#F0F6FC">4.910</text>
+  <text x="48" y="62" class="big" fill="#F0F6FC">4.902</text>
   <text x="48" y="84" class="cap" fill="#8B949E">contribuições no último ano</text>
   <text x="841" y="61.5" class="lg" text-anchor="end" fill="#6E7681">Menos</text>
     <rect x="849" y="52" width="11" height="11" rx="2.5" fill="#161B22" stroke="#FFFFFF" stroke-opacity="0.04"/>
@@ -410,6 +410,7 @@
     <rect x="915" y="205" width="13" height="13" rx="2.5" fill="#0E3B2E" stroke="#FFFFFF" stroke-opacity="0.04"/>
     <rect x="915" y="222" width="13" height="13" rx="2.5" fill="#161B22" stroke="#FFFFFF" stroke-opacity="0.04"/>
     <rect x="932" y="120" width="13" height="13" rx="2.5" fill="#161B22" stroke="#FFFFFF" stroke-opacity="0.04"/>
+    <rect x="932" y="137" width="13" height="13" rx="2.5" fill="#161B22" stroke="#FFFFFF" stroke-opacity="0.04"/>
   </g>
 
   <text x="48" y="264" class="rh" fill="#6E7681">RITMO SEMANAL</text>
