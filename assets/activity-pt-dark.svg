@@ -414,6 +414,7 @@
     <rect x="932" y="154" width="13" height="13" rx="2.5" fill="#161B22" stroke="#FFFFFF" stroke-opacity="0.04"/>
     <rect x="932" y="171" width="13" height="13" rx="2.5" fill="#0E3B2E" stroke="#FFFFFF" stroke-opacity="0.04"/>
     <rect x="932" y="188" width="13" height="13" rx="2.5" fill="#161B22" stroke="#FFFFFF" stroke-opacity="0.04"/>
+    <rect x="932" y="205" width="13" height="13" rx="2.5" fill="#161B22" stroke="#FFFFFF" stroke-opacity="0.04"/>
   </g>
 
   <text x="48" y="264" class="rh" fill="#6E7681">RITMO SEMANAL</text>
@@ -422,7 +423,7 @@
   <line x1="48" y1="320.5" x2="952" y2="320.5" stroke="#21262D" stroke-width="1"/>
 
   <text x="48" y="344" class="ft">
-      <tspan fill="#6E7681">Sequência atual</tspan><tspan fill="#F0F6FC" dx="8" font-weight="600">1 dia</tspan>
+      <tspan fill="#6E7681">Sequência atual</tspan><tspan fill="#F0F6FC" dx="8" font-weight="600">0 dias</tspan>
     </text>
     <text x="349.3333333333333" y="344" class="ft">
       <tspan fill="#6E7681">Maior sequência</tspan><tspan fill="#F0F6FC" dx="8" font-weight="600">20 dias</tspan>
