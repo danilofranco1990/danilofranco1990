@@ -415,6 +415,7 @@
     <rect x="932" y="171" width="13" height="13" rx="2.5" fill="#CFE8B4" stroke="#1B1F24" stroke-opacity="0.06"/>
     <rect x="932" y="188" width="13" height="13" rx="2.5" fill="#EBEDF0" stroke="#1B1F24" stroke-opacity="0.06"/>
     <rect x="932" y="205" width="13" height="13" rx="2.5" fill="#EBEDF0" stroke="#1B1F24" stroke-opacity="0.06"/>
+    <rect x="932" y="222" width="13" height="13" rx="2.5" fill="#EBEDF0" stroke="#1B1F24" stroke-opacity="0.06"/>
   </g>
 
   <text x="48" y="264" class="rh" fill="#6E7781">RITMO SEMANAL</text>
