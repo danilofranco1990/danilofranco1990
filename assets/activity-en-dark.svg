@@ -411,6 +411,7 @@
     <rect x="915" y="222" width="13" height="13" rx="2.5" fill="#161B22" stroke="#FFFFFF" stroke-opacity="0.04"/>
     <rect x="932" y="120" width="13" height="13" rx="2.5" fill="#161B22" stroke="#FFFFFF" stroke-opacity="0.04"/>
     <rect x="932" y="137" width="13" height="13" rx="2.5" fill="#161B22" stroke="#FFFFFF" stroke-opacity="0.04"/>
+    <rect x="932" y="154" width="13" height="13" rx="2.5" fill="#161B22" stroke="#FFFFFF" stroke-opacity="0.04"/>
   </g>
 
   <text x="48" y="264" class="rh" fill="#6E7681">WEEKLY RHYTHM</text>
